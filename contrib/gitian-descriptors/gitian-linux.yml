@@ -156,7 +156,7 @@ script: |
   ./autogen.sh
   CONFIG_SITE=${BASEPREFIX}/$(echo "${HOSTS}" | awk '{print $1;}')/share/config.site ./configure --prefix=/
   make V=1 dist
-  SOURCEDIST=$(echo sbercoin-*.tar.gz)
+  SOURCEDIST=$(echo sbercoin.com-*.tar.gz)
   DISTNAME=${SOURCEDIST/%.tar.gz}
 
   # Workaround for tarball not building with the bare tag version (prep)
