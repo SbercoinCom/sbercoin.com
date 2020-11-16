@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=0.1.0
+Name=Sbercoin.com Core
+Comment=Connect to the Sbercoin.com P2P Network
+Exec=sbercoin-qt %u
+Terminal=false
+Type=Application
+Icon=sbercoin28
+MimeType=x-scheme-handler/sbercoin;
+Categories=Network;
+StartupWMClass=Sbercoin-qt
+Name[en_US]=sbercoin-qt

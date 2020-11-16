@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=0.1.0
+Name=Sbercoin.com Core Testnet
+Comment=Connect to the Sbercoin.com P2P Network Testnet
+Exec=sbercoin-qt -testnet %u
+Terminal=false
+Type=Application
+Icon=sbercointestnet128
+MimeType=x-scheme-handler/sbercoin;
+Categories=Network;
+StartupWMClass=Sbercoin-qt-testnet
+Name[en_US]=sbercoin-qt-testnet
