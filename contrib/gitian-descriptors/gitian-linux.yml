@@ -38,9 +38,9 @@ packages:
 - "libmicrohttpd-dev"
 - "libminiupnpc-dev"
 remotes:
-- "url": "https://github.com/Sbercoin/sbercoin.com.git"
+- "url": "https://github.com/SbercoinCom/sbercoin.com.git"
   "dir": "sbercoin.com"
-- "url": "https://github.com/Sbercoin/cpp-eth-sbercoin.git"
+- "url": "https://github.com/SbercoinCom/cpp-eth-sbercoin.git"
   "dir": "cpp-eth-sbercoin"
 files: []
 script: |
